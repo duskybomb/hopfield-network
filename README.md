@@ -1,10 +1,9 @@
 # Hopfield Network
 Implementation of [Hopfield Neural Network](https://www.its.caltech.edu/~bi250c/papers/Hopfield-1982.pdf) in Python based on Hebbian Learning Algorithm
 
+[Blog post on the same](http://blog.harshitjoshi.in/2019/08/08/hopfield-neural-network-implementation-in-python/) 
 
-```
-$ python main.py
-```
+
 ## Example 1
 <img src="assets/random_multiple_pattern.png" width="300">
 <img src="assets/multiple_pattern_convergence.png" width="300">
